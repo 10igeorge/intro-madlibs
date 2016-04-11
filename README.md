@@ -10,9 +10,6 @@ Intro Epicodus project featuring a space-themed Mad Libs page.
 
 * run `git clone https://https://github.com/10igeorge/intro-madlibs`
 
-#### Home Page Landing
-https://10igeorge.github.io/intro-madlibs
-
 ##### License
 
 
